@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valentin5944
+- 👋 Hi, I’m @Valentin Portyanko
 - 👀 I like playing games
 
 Valentin5944/Valentin5944 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
